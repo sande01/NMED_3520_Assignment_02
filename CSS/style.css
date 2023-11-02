@@ -30,6 +30,10 @@ header nav ul li:hover {
     background-color: red;
 }
 
+footer {
+    bottom: 0;
+}
+
 .content {
     margin-top: 20px;
     padding: 50px;
